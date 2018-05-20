@@ -1,4 +1,4 @@
-FROM opensuse:tumbleweed
+FROM opensuse/tumbleweed
 MAINTAINER FredB <fred.blaise@gmail.com>
 
 USER root
